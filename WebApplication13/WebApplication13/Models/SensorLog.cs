@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ConsoleApp2.models
+namespace WebApplication13.Models
 {
     public class SensorLog
     {

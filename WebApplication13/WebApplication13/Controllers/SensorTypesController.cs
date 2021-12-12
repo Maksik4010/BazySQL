@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using ConsoleApp2.models;
+using WebApplication13.Models;
 using WebApplication13.Data;
 
 namespace WebApplication13.Controllers
